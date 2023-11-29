@@ -1,4 +1,5 @@
 # Wat is Hydra?
+
 Hydra is een live codeerbare video synthesizer en codeeromgeving die direct in de browser werkt. Het is gratis en open-source en gemaakt voor zowel beginners als gevorderden. Je kunt eenvoudig de [hydra web editor](https://hydra.ojack.xyz) openen op een laptop of mobiel apparaat om aan de slag te gaan.
 
 Hydra is geschreven in JavaScript en compileert onder de motorkap naar WebGL. De syntax is geïnspireerd op analoge modulaire synthesis, waarbij het aan elkaar verbinden of patchen van een set transformaties een visueel resultaat genereert.
