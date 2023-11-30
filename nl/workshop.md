@@ -11,7 +11,7 @@ Je hebt helemaal geen codeer ervaring nodig om ermee te beginnen. Beelden codere
  4. Op het eind van de code schrijf je `.out(o0)`
  5. Om je code `osc(40,0.1,0).out(o0)` te activeren druk je op de play knop 
 
-![voorbeeld](../assets/voorbeeld_osc.png)
+![voorbeeld](/assets/voorbeeld_osc.png)
  
 Gefeliciteerd! Nu kun je beginnen met experimenteren door de cijfers aan te passen en transformaties toe te voegen.
 
@@ -27,7 +27,7 @@ Deze transformatie voegt een kaleidoscoop effect toe aan je bron
 ```javascript
 osc(10,0.1,1).kaleid(4).out(o0)
 ```
-![voorbeeld](../assets/voorbeeld.png)
+![voorbeeld](/assets/voorbeeld.png)
 
 ### Tips
 - Bij decimale getallen gebruik je een punt in plaats van komma. Dus 1.5 en niet 1,5
