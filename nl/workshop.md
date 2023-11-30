@@ -27,7 +27,7 @@ Deze transformatie voegt een kaleidoscoop effect toe aan je bron
 ```javascript
 osc(10,0.1,1).kaleid(4).out(o0)
 ```
-![voorbeeld](./assets/voorbeeld.png)
+![voorbeeld](../assets/voorbeeld.png)
 
 ### Tips
 - Bij decimale getallen gebruik je een punt in plaats van komma. Dus 1.5 en niet 1,5
