@@ -1,2 +1,2 @@
-* [Workshop](/nl/workshop.md)
-* [Webcam effect](/nl/webcam_effect.md)
+* [De basis](/nl/workshop.md)
+* [Webcam effect maken](/nl/webcam_effect.md)

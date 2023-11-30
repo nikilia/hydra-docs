@@ -33,6 +33,8 @@ osc(10,0.1,1).kaleid(4).out(o0)
 - Bij decimale getallen gebruik je een punt in plaats van komma. Dus 1.5 en niet 1,5
 - Pas de volgorde van je transformaties eens aan 
 - Code kun je ook uitvoeren door ctrl+shift+enter in te drukken
+- Bij coderen tel je vanaf 0
+- Je kunt ook andere javascript code toevoegen aan Hydra
 
 ### Error
 
@@ -51,7 +53,9 @@ Wat te controleren als je code niet werkt
 
 Hieronder staan een aantal bronnen en transformaties om je op weg te helpen. De volledige lijst is te vinden op [hydra.ojack.xyz/functions/](https://hydra.ojack.xyz/functions/)
 
-### 1. Bron
+### 1. Bron 
+Begin met een bron om te transformeren
+
 `osc(40,0.1,0)`
 `gradient(1)`
 `voronoi(5,0.3,0.3)`
@@ -59,7 +63,9 @@ Hieronder staan een aantal bronnen en transformaties om je op weg te helpen. De 
 `shape(4,0.5,0)`
 `solid(1,0,0)`
 
-### 2. Transformaties
+### 2. Transformaties 
+kies er zoveel als je wilt!
+
 `.rotate(10,1)`
 `.pixelate()`
 `.kaleid(4)`
@@ -67,6 +73,15 @@ Hieronder staan een aantal bronnen en transformaties om je op weg te helpen. De 
 `.scale(0.5)`
 `.colorama(0.005)`
 `.color(0,1,1)`
+
+### 3. Sluiten
+Je code moet altijd worden gesloten met een output
+
+`.out()`
+`.out(o0)`
+`.out(o1)`
+`.out(o2)`
+`.out(o3)`
 
 ---
 
