@@ -342,7 +342,7 @@ window.$docsify = {
   loadSidebar: true,
   // relativePath: true,
   subMaxLevel: 3,
-  homepage: 'README.md',
+  homepage: '/nl/workshop.md',
   name: "Hydra",
   repo: "ojack/hydra",
   plugins: [

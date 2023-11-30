@@ -22,4 +22,4 @@ Voor meer informatie en instructies, zie:
 
 Hydra is gemaakt door [olivia jack](https://ojack.xyz) en wordt ondersteund door een gemeenschap van bijdragers. Als je Hydra graag gebruikt, overweeg dan om de ontwikkeling te [ondersteunen](https://opencollective.com/hydra-synth).
 
-Volgende stap: [Aan de slag](getting_started)
+Volgende stap: [Aan de slag](/nl/getting_started)
