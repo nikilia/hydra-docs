@@ -11,7 +11,6 @@ Je hebt helemaal geen codeer ervaring nodig om ermee te beginnen. Beelden codere
  4. Op het eind van de code schrijf je `.out(o0)`
  5. Om je code `osc(40,0.1,0).out(o0)` te activeren druk je op de play knop 
 
-<img src="/assets/voorbeeld_osc.png" alt="osc">
 ![voorbeeld](assets/voorbeeld_osc.png)
  
 Gefeliciteerd! Nu kun je beginnen met experimenteren door de cijfers aan te passen en transformaties toe te voegen.
