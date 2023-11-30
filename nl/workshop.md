@@ -51,7 +51,7 @@ Wat te controleren als je code niet werkt
 
 ## Bouwstenen
 
-Hieronder staan een aantal bronnen en transformaties om je op weg te helpen. De volledige lijst is te vinden op [hydra.ojack.xyz/functions/](https://hydra.ojack.xyz/functions/)
+Hieronder staan een aantal bronnen en transformaties om je op weg te helpen. De volledige lijst is te vinden op [hydra.ojack.xyz/functions/](https://hydra-functions-4nefnk1x1-nikilia.vercel.app/)
 
 ### 1. Bron 
 Begin met een bron om te transformeren
