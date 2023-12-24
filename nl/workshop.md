@@ -1,4 +1,4 @@
-# Night of the Nerds Hydra Workshop
+# Hydra Workshop
 
 Maak je eigen visuele werken door je webcam, kleuren, vormen en nog veel meer samen te mixen tot een kunstwerk met eindeloze mogelijkheden.
 Je hebt helemaal geen codeer ervaring nodig om ermee te beginnen. Beelden coderen met Hydra is toegankelijk voor iedereen en helemaal gratis te gebruiken rechtstreeks in je browser.
